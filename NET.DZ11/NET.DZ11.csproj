@@ -43,8 +43,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Car.cs" />
+    <Compile Include="Cello.cs" />
+    <Compile Include="Device.cs" />
+    <Compile Include="Engineer.cs" />
+    <Compile Include="Kettle.cs" />
+    <Compile Include="Manager.cs" />
+    <Compile Include="Microwave.cs" />
+    <Compile Include="Money.cs" />
+    <Compile Include="MusicalInstrument.cs" />
+    <Compile Include="President.cs" />
+    <Compile Include="Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Security.cs" />
+    <Compile Include="Steamboat.cs" />
+    <Compile Include="Trombone.cs" />
+    <Compile Include="Ukulele.cs" />
+    <Compile Include="Violin.cs" />
+    <Compile Include="Worker.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
